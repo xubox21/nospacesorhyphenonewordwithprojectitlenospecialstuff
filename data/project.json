@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "xubox21",
+    "is_private": false,
+    "title": "Test - RHE",
+    "description": "test to familiarise with avannotate.",
+    "language": "en",
+    "slug": "nospacesorhyphenonewordwithprojectitlenospecialstuff",
+    "creator": "xubox21",
+    "authors": "Sarah",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-04-24T15:01:18.027Z",
+    "updated_at": "2025-04-24T15:01:18.027Z"
   }
 }
